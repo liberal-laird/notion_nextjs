@@ -77,6 +77,8 @@ const BLOG = {
   ADSENSE_GOOGLE_SLOT_AUTO: process.env.NEXT_PUBLIC_ADSENSE_GOOGLE_SLOT_AUTO || '2089847106', // Google AdScene>广告>按单元广告>新建展示广告 （自动广告）
 
 
+  // 谷歌分析
+  ANALYTICS_GOOGLE_ID: process.env.NEXT_PUBLIC_ANALYTICS_GOOGLE_ID || 'G-WTMFEPX5Z8', // 谷歌Analytics的id e.g: G-XXXXXXXXXX
 
 }
 
